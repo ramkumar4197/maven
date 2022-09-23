@@ -22,6 +22,8 @@ public static void main(String[] args) {
 	a.password();
 	a.userid();
 	a.login();
+	
+	System.out.println("done");
 }
 
 
